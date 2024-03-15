@@ -12,15 +12,12 @@
             "appearance": "single_line",
             "body": "Title",
             "description": null,
-            "disable_editing": false,
             "field_state": "read_write",
-            "image": null,
             "no_html": false,
             "openai_options": {
                 "translate": "1"
             },
             "required": false,
-            "seo_description": null,
             "seo_title": true,
             "title": true,
             "type": "Text",
@@ -32,24 +29,18 @@
             "appearance": "single_line",
             "body": "Textarea",
             "description": null,
-            "disable_editing": false,
             "field_state": "read_write",
-            "image": null,
             "no_html": false,
             "openai_options": {
                 "translate": "1"
             },
             "required": false,
-            "seo_description": null,
-            "seo_title": null,
-            "title": null,
             "type": "Text",
             "unique": false
         },
         {
             "appearance": "1",
             "body": "Columns",
-            "image": null,
             "type": "Column"
         }
     ],

@@ -12,30 +12,27 @@
             "appearance": "single_line",
             "body": "Simple",
             "description": null,
-            "disable_editing": false,
             "field_state": "read_write",
-            "image": null,
             "no_html": false,
             "openai_options": {
                 "translate": "1"
             },
             "required": false,
-            "seo_description": null,
             "seo_title": true,
             "title": true,
             "type": "Text",
             "unique": false
         },
         {
-            "accept_restrictions": null,
             "api_id": "enum",
-            "appearance": null,
             "body": "Enum",
             "description": null,
-            "disable_editing": false,
+            "enum": {
+                "body_singular": "Test",
+                "label": "ContentModel",
+                "ref": "9c9bf28d-a60b-490b-8033-683d63948d2b"
+            },
             "field_state": "read_write",
-            "image": null,
-            "openai_options": null,
             "required": false,
             "type": "Enum"
         }

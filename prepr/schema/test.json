@@ -15,7 +15,6 @@
             "value": "Meer"
         }
     ],
-    "fields": null,
     "label": "ContentModel",
     "ref": "9c9bf28d-a60b-490b-8033-683d63948d2b",
     "type": "enum"
