@@ -22,22 +22,10 @@
             "title": true,
             "type": "Text",
             "unique": false
-        },
-        {
-            "api_id": "enum",
-            "body": "Enum",
-            "description": null,
-            "enum": {
-                "body_singular": "Test",
-                "label": "ContentModel",
-                "ref": "9c9bf28d-a60b-490b-8033-683d63948d2b"
-            },
-            "field_state": "read_write",
-            "required": false,
-            "type": "Enum"
         }
     ],
     "label": "ContentModel",
+    "localization": true,
     "ref": "888af54a-b792-44ae-b4c9-c7b692fe901b",
     "review_urls": null,
     "scheduling": true,

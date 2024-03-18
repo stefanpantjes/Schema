@@ -37,14 +37,10 @@
             "required": false,
             "type": "Text",
             "unique": false
-        },
-        {
-            "appearance": "1",
-            "body": "Columns",
-            "type": "Column"
         }
     ],
     "label": "ContentModel",
+    "localization": true,
     "ref": "74aa38db-27cd-4b4d-866d-bac6c497f84b",
     "review_urls": null,
     "scheduling": true,
